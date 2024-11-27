@@ -17,7 +17,7 @@ func TwoNumberSumV1(array []int, target int) []int {
 
 // TwoNumberSumV2 Complexity: O(n) time | O(n) space
 func TwoNumberSumV2(array []int, target int) []int {
-	nums := map[int]bool{}
+	nums := make(map[int]bool)
 
 	for _, num := range array {
 		potentialMatch := target - num
