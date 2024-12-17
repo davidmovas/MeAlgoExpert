@@ -1,7 +1,7 @@
 package MiddleNode
 
 import (
-	. "algoexpert/Easy/models"
+	. "algoexpert/models"
 )
 
 func MiddleNode(head *LinkedList[int]) *LinkedList[int] {
