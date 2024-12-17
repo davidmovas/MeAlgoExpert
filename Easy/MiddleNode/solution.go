@@ -1,6 +1,8 @@
 package MiddleNode
 
-import . "algoexpert/models"
+import (
+	. "algoexpert/Easy/models"
+)
 
 func MiddleNode(head *LinkedList[int]) *LinkedList[int] {
 	var resultNode, current *LinkedList[int]

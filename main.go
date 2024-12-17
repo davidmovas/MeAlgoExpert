@@ -1,7 +1,7 @@
 package main
 
 import (
-	twoNumberSum "algoexpert/TwoNumberSum"
+	"algoexpert/Easy/TwoNumberSum"
 	algox "algoexpert/additional"
 	"fmt"
 )

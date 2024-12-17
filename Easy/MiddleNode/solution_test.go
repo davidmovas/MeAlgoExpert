@@ -1,6 +1,7 @@
 package MiddleNode
 
 import (
+	. "algoexpert/Easy/models"
 	. "algoexpert/models"
 	"reflect"
 	"testing"
