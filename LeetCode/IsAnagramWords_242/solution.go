@@ -1,4 +1,4 @@
-package IsAnagramWords
+package IsAnagramWords_242
 
 func v1(s string, t string) bool {
 	if len(s) != len(t) {

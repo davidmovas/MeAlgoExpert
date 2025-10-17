@@ -1,4 +1,4 @@
-package IsAnagramWords
+package IsAnagramWords_242
 
 import (
 	"reflect"
